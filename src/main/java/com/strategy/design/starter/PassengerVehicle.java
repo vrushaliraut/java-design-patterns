@@ -1,4 +1,4 @@
-package com.strategy.design.withoutPattern;
+package com.strategy.design.starter;
 
 public class PassengerVehicle extends Vehicle{
 

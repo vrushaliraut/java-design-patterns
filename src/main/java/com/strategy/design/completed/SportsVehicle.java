@@ -1,6 +1,6 @@
-package com.strategy.design.withPattern;
+package com.strategy.design.completed;
 
-import com.strategy.design.withPattern.strategy.SportDriveStrategy;
+import com.strategy.design.completed.strategy.SportDriveStrategy;
 
 public class SportsVehicle extends Vehicle {
     public SportsVehicle() {

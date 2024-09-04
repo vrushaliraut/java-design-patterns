@@ -1,4 +1,4 @@
-package com.strategy.design.withPattern.strategy;
+package com.strategy.design.completed.strategy;
 
 
 public class SportDriveStrategy implements DriveStrategy {

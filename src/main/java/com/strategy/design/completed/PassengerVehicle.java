@@ -1,6 +1,6 @@
-package com.strategy.design.withPattern;
+package com.strategy.design.completed;
 
-import com.strategy.design.withPattern.strategy.NormalDriveStrategy;
+import com.strategy.design.completed.strategy.NormalDriveStrategy;
 
 public class PassengerVehicle extends Vehicle {
 
