@@ -1,0 +1,13 @@
+
+q
+java:S1450"TRemove the "state" field and declare it as a local variable in the relevant methods.(æªíö8¦ÎÒœ2
+F
+java:S1068")Remove this unused "state" private field.(æªíö8»ˆÒœ2
+J
+java:S1068"(Remove this unused "user" private field.(’Ø¾ıÿÿÿÿ8âèÌœ2
+E
+java:S1068"(Remove this unused "show" private field.(œµ’è8âèÌœ2
+F
+java:S1068")Remove this unused "seats" private field.(ı§’ğ8âèÌœ2
+J
+java:S1068"(Remove this unused "date" private field.(§ó®Øıÿÿÿÿ8ÈÍœ2

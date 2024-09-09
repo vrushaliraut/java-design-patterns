@@ -1,0 +1,9 @@
+
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "booking".(²¡è¿8ˆÌÎœ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ßâïÕ8ŠïÎœ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ÿùÂµ8ÌÎœ2
+V
+java:S3400"9Remove this method and declare a constant for this value.(§¼Éç8¸èºœ2
+X
+java:S1172"6Remove these unused method parameters "show", "seats".(Šìôëıÿÿÿÿ8¹èºœ2
